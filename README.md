@@ -1,5 +1,5 @@
-### Hi there 👋
-![](https://api.ghprofile.me/view?username=Zinc_Zn)
+### Hi there I'm ZincZn 👋
+![](https://api.ghprofile.me/view?username=ZincZn)
 
 
 <!--
