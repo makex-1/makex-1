@@ -1,4 +1,6 @@
 ### Hi there 👋
+![](https://api.ghprofile.me/view?username=Zinc_Zn)
+
 
 <!--
 **ZincZn/ZincZn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
