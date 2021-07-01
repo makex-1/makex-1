@@ -15,15 +15,13 @@ A developer from the United Kingdom
 
 ## **_Languages and Skills:_**
 
-* HTML 5
-* Python 3
-* Extremely minimal JavaScript
+- HTML 5
+- Python 3
+- Extremely minimal JavaScript
 
 ## **_Reccomendations:_**
 
-* [Defender](https://defenderbot.xyz) 
-
-An anti-nuke Discord.py bot made by [Falln](https://github.com/fallnx/)
+* [Defender](https://defenderbot.xyz) - An anti-nuke Discord.py bot made by [Falln](https://github.com/fallnx/)
 <!--
 **ZincZn/ZincZn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
