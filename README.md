@@ -1,18 +1,25 @@
 ![](https://api.ghprofile.me/view?username=ZincZn)
+
 ------------------------------------------------------------------------------------------------------
 ### Hi there I'm ZincZn 👋
 
-------------------------------------------------------------------------------------------------------
-## **_About Me_**
+![]https://discord.c99.nl/widget/theme-2/565180561744723968.png
 
-- 🔭 I’m currently working on Loggr - A discord.py logging bot.
-- 🌱 I’m currently learning aiosql / mysql for storing data.
-- 💬 Ask me about ideas for your bot.
+A developer from the United Kingdom
+
+------------------------------------------------------------------------------------------------------
+## **Projects**
+
+- I’m currently working on Loggr - A discord.py logging bot.
+- [Lundis](https://github.com/ZincZn/Lundis) - A general discord.py 
+- [Lundis Development](https://ZincZn/Lundis-Development) - Linked to Lundis
 
 -------------------------------------------------------------------------------------------------------
-## **_Contact Me:_**
+## **_Languages and Skills:_**
 
-* **Discord**: Makex#8520 / #0001
+* HTML 5
+* Python 3
+* Extremely minimal JavaScript
 
 --------------------------------------------------------------------------------------------------------
 ## **_Reccomendations:_**
