@@ -21,3 +21,7 @@ A developer from the United Kingdom
 ## **_Recomendations:_**
 
 * [Defender](https://defenderbot.xyz) - An anti-nuke Discord.py bot made by [Falln](https://github.com/fallnx/)
+
+## **_Contact:_**
+
+-[Discord](https://discordapp.com/users/565180561744723968)
