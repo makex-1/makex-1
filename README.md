@@ -3,7 +3,7 @@
 ------------------------------------------------------------------------------------------------------
 ### Hi there I'm ZincZn 👋
 
-![]https://discord.c99.nl/widget/theme-2/565180561744723968.png
+![](https://discord.c99.nl/widget/theme-2/565180561744723968.png)
 
 A developer from the United Kingdom
 
