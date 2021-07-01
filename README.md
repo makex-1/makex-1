@@ -1,6 +1,5 @@
 ![](https://api.ghprofile.me/view?username=ZincZn)
 
-------------------------------------------------------------------------------------------------------
 ### Hi there I'm ZincZn 👋
 
 ![](https://discord.c99.nl/widget/theme-2/565180561744723968.png)
