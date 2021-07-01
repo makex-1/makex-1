@@ -13,7 +13,12 @@
 
 * **Discord**: Makex#8520 / #0001
 
--------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------
+## **_Reccomendations:_**
+
+* [Defender](https://defenderbot.xyz)- An anti nuke discord.py bot made by [FallnX](https://github.com/fallnx/zynx)
+
+--------------------------------------------------------------------------------------------------------
 <!--
 **ZincZn/ZincZn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
