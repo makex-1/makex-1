@@ -17,7 +17,8 @@
 --------------------------------------------------------------------------------------------------------
 ## **_Reccomendations:_**
 
-* [Defender](https://defenderbot.xyz)- An anti nuke discord.py bot made by [FallnX](https://github.com/fallnx/zynx)
+* [Defender](https://defenderbot.xyz) 
+An anti nuke discord.py bot made by [FallnX](https://github.com/fallnx/zynx)
 
 --------------------------------------------------------------------------------------------------------
 <!--
