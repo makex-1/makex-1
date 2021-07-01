@@ -10,13 +10,13 @@ A developer from the United Kingdom
 ## **Projects**
 
 - [Loggr](https://discord.com/oauth2/authorize?client_id=845325893488476180&permissions=8&scope=bot) - A Discord.py logging bot
-- [Lundis](https://github.com/ZincZn/Lundis) - A general Discord.py 
+- [Lundis](https://github.com/ZincZn/Lundis) - A Discord.py general bot
 - [Lundis Development](https://ZincZn/Lundis-Development) - Linked to Lundis
 
 ## **_Languages and Skills:_**
 
+- **Python 3**
 - HTML 5
-- Python 3
 - Extremely minimal JavaScript
 
 ## **_Recomendations:_**
