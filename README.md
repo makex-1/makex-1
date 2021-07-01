@@ -10,7 +10,7 @@ A developer from the United Kingdom
 ## **Projects**
 
 - [Loggr](https://discord.com/oauth2/authorize?client_id=845325893488476180&permissions=8&scope=bot) - A Discord.py logging bot
-- [Lundis](https://github.com/ZincZn/Lundis) - A general discord.py 
+- [Lundis](https://github.com/ZincZn/Lundis) - A general Discord.py 
 - [Lundis Development](https://ZincZn/Lundis-Development) - Linked to Lundis
 
 ## **_Languages and Skills:_**
