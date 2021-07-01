@@ -1,7 +1,7 @@
 ### Hi there I'm ZincZn 👋
 ![](https://api.ghprofile.me/view?username=ZincZn)
 
-!- 🔭 I’m currently working on Loggr - A discord.py logging bot
+- 🔭 I’m currently working on Loggr - A discord.py logging bot
 
 <!--
 **ZincZn/ZincZn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
