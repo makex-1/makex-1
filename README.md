@@ -23,4 +23,4 @@ A developer from the United Kingdom
 
 ## **_Contact:_**
 
--[Discord](https://discordapp.com/users/565180561744723968)
+- [Discord](https://discordapp.com/users/565180561744723968)
