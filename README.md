@@ -21,6 +21,8 @@ A developer from the United Kingdom
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=ZincZn&show_icons=true)
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ZincZn&theme=blue-green)
+
 ## **_Recomendations:_**
 
 * [Defender](https://defenderbot.xyz) - An anti-nuke Discord.py bot made by [Falln](https://github.com/fallnx/)
