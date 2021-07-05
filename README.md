@@ -1,7 +1,8 @@
 ### Hi there I'm ZincZn 👋
-![Profile View Counter](https://komarev.com/ghpvc/?username=ZincZn)
 
 ![]( https://discord.c99.nl/widget/theme-3/565180561744723968.png)
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=ZincZn)
 
 A developer from the United Kingdom
 
