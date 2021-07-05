@@ -17,7 +17,7 @@ A developer from the United Kingdom
 - HTML 5
 - Extremely minimal JavaScript
 
-##Statistics
+## **_Statistics_**
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=ZincZn&show_icons=true)
 
