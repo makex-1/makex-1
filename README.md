@@ -30,3 +30,8 @@ A developer from the United Kingdom
 ## **_Contact:_**
 
 - [Discord](https://discordapp.com/users/565180561744723968)
+
+##**_Other_**
+
+### 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
