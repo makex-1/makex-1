@@ -17,6 +17,10 @@ A developer from the United Kingdom
 - HTML 5
 - Extremely minimal JavaScript
 
+##Statistics
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=ZincZn&show_icons=true)
+
 ## **_Recomendations:_**
 
 * [Defender](https://defenderbot.xyz) - An anti-nuke Discord.py bot made by [Falln](https://github.com/fallnx/)
