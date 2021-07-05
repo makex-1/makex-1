@@ -1,5 +1,5 @@
 ### Hi there I'm ZincZn 👋
-![](https://api.ghprofile.me/view?username=ZincZn)
+![Profile View Counter](https://komarev.com/ghpvc/?username=ZincZn)
 
 ![]( https://discord.c99.nl/widget/theme-3/565180561744723968.png)
 
