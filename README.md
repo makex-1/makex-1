@@ -23,7 +23,8 @@ A developer from the United Kingdom
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=makex-1&show_icons=true)
 
-![Your Repository's Stats](https://wakatime.com/share/@b8d80231-5e5e-49e1-b41f-8258024abe13/bfb695fc-7dae-43e6-a19a-9c09e250bfcf.png)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makex-1)
+
 
 ## **_Recomendations:_**
 
