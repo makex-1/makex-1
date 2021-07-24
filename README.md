@@ -10,7 +10,7 @@ A developer from the United Kingdom
 
 - [Loggr](https://discord.com/oauth2/authorize?client_id=845325893488476180&permissions=8&scope=bot)  - A Discord.py logging bot
 - [Lundis](https://github.com/ZincZn/Lundis) - A Discord.py general bot
-- [Lundis Development](https://ZincZn/Lundis-Development) - Linked to Lundis
+- [Filter](https://github.com/makex-1/filter-bot) - An open source filter bot for you to run
 
 ## **_Languages and Skills:_**
 
