@@ -21,9 +21,9 @@ A developer from the United Kingdom
 
 ## **_Statistics_**
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=ZincZn&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=makex-1&show_icons=true)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ZincZn&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=makex-1&theme=blue-green)
 
 ## **_Recomendations:_**
 
