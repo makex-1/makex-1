@@ -1,6 +1,6 @@
 ### Hi there I'm Makex 👋
 
-![]( https://discord.c99.nl/widget/theme-4/565180561744723968.png)
+![](https://discord.c99.nl/widget/theme-4/565180561744723968.png)
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=ZincZn)
 
