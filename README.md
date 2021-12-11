@@ -13,6 +13,7 @@ A developer and student from the United Kingdom
 - **Python 3**
 - **Python** Flask (*probably forgot by now*)
 - HTML 5
+- Learning C#
 - Extremely minimal JavaScript
 
 ## **_Statistics_**
