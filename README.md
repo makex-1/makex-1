@@ -1,7 +1,5 @@
 ### Hi there I'm Makex 👋
 
-![](https://discord.c99.nl/widget/theme-4/565180561744723968.png)
-
 A developer and student from the United Kingdom
 
 ## **Projects**
