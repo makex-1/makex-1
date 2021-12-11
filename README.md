@@ -25,12 +25,6 @@ A developer and student from the United Kingdom
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makex-1)
 
-
-## **_Recomendations:_**
-
-* [Defender](https://defenderbot.xyz) - An anti-nuke Discord.py bot made by [Falln](https://github.com/fallnx/)
-
-
 ## **_Contact:_**
 
 - [Discord](https://discordapp.com/users/565180561744723968)
