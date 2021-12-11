@@ -15,7 +15,7 @@ A developer and student from the United Kingdom
 ## **_Languages and Skills:_**
 
 - **Python 3**
-- Flask (**Py**)(*probably forgot by now*)
+- **Python**Flask(*probably forgot by now*)
 - HTML 5
 - Extremely minimal JavaScript
 
