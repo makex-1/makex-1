@@ -4,7 +4,7 @@ A developer and student from the United Kingdom
 
 ## **Projects**
 
-- Loggr- A Discord.py logging bot (Not being developed anymore)
+- Loggr- A Discord.py logging bot (No Longer Active)
 - [Filter](https://github.com/makex-1/filter-bot) - An open source filter bot for you to run
 - Lundis - A Discord.py general bot (No longer active)
 
