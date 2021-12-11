@@ -4,7 +4,7 @@
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=ZincZn)
 
-A developer from the United Kingdom
+A developer and student from the United Kingdom
 
 ## **Projects**
 
